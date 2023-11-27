@@ -27,7 +27,20 @@ This project builds a shoe selling website these following with features:
 See [Features](#features) section for more details\
 [Technologies](#technologies) use in this project
 ## Visuals
-Updating...
+<div  align="center">
+
+<img  src="readme-resource/screen/homepage.png" width="45%"></img> &nbsp;&nbsp; <img  src="readme-resource/screen/shop-page.png" width="45%"></img>
+
+<img  src="readme-resource/screen/cart-page.png" width="45%"></img> &nbsp;&nbsp; <img  src="readme-resource/screen/purchase-page.png" width="45%"></img>
+
+<img  src="readme-resource/screen/purchase-details-page.png" width="45%"></img> &nbsp;&nbsp; <img  src="readme-resource/screen/profile-page.png" width="45%"></img>
+
+<img  src="readme-resource/screen/employee-profile-page.png" width="45%"></img> &nbsp;&nbsp; <img  src="readme-resource/screen/storage-staff-manage-order-page.png" width="45%"></img>
+
+<img  src="readme-resource/screen/manager-manage-product-page.png" width="45%"></img> &nbsp;&nbsp; <img  src="readme-resource/screen/marketting-staff-manage-voucher-page.png" width="45%"></img>
+
+<img  src="readme-resource/screen/seller-manage-feedback-page.png" width="45%"></img> &nbsp;&nbsp; <img  src="readme-resource/screen/admin-manage-user-page.png" width="45%"></img>
+</div>
 
 ## Features
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
