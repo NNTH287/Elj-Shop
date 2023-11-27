@@ -1,16 +1,16 @@
 ﻿use master
 go
 
-ALTER DATABASE OnlineShop SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+ALTER DATABASE EljShop SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
 go
 
-drop database if exists OnlineShop 
+drop database if exists EljShop 
 go
 
-create database OnlineShop
+create database EljShop
 go
 
-use OnlineShop
+use EljShop
 go
 
 CREATE TABLE [User] (
@@ -428,7 +428,7 @@ Insert [Feedback] (orderId,customerId, productId, content, reply, feedbackDate, 
 
 USE master;
 GO
-ALTER DATABASE OnlineShop SET MULTI_USER;
+ALTER DATABASE EljShop SET MULTI_USER;
 GO
 
 ALTER DATABASE SCOPED CONFIGURATION SET IDENTITY_CACHE = OFF
